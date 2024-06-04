@@ -252,9 +252,9 @@ class FilterRelation {
   // ignore: constant_identifier_names
   static const FilterRelation LessThanOrEqual = FilterRelation._('<=');
   // ignore: constant_identifier_names
-  static const FilterRelation GreatherThan = FilterRelation._('>');
+  static const FilterRelation GreaterThan = FilterRelation._('>');
   // ignore: constant_identifier_names
-  static const FilterRelation GreatherThanOrEqual = FilterRelation._('>=');
+  static const FilterRelation GreaterThanOrEqual = FilterRelation._('>=');
   // ignore: constant_identifier_names
   static const FilterRelation Equal = FilterRelation._('==');
 
