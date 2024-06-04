@@ -289,7 +289,7 @@ class OrderDirection {
   // ignore: constant_identifier_names
   static const OrderDirection Ascending = OrderDirection._('Ascending');
   // ignore: constant_identifier_names
-  static const OrderDirection Decending = OrderDirection._('Decending');
+  static const OrderDirection Descending = OrderDirection._('Descending');
 
   final String name;
 
